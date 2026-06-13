@@ -4,7 +4,7 @@
 
 ## Contenido del repositorio
 
-### 1. ejercicios de Pandas (Phyton)
+### 1. Ejercicios de Pandas (Phyton)
  - Manipulación y limpieza de datos.
 - Analisis exploratorio de datos (EDA).
 
