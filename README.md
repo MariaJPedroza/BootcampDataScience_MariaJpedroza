@@ -1,6 +1,6 @@
 # BootcampDataScience.
 ## Descripción.
-##En este repositorío se encontrarán las actividades entregables, ejercios y demás trabajos que demuestren mi aprendizaje obtenido en el Bootcamp de DataScience.
+En este repositorío se encontrarán las actividades entregables, ejercios y demás trabajos que demuestren mi aprendizaje obtenido en el Bootcamp de DataScience.
 
 ## Contenido del repositorio
 
