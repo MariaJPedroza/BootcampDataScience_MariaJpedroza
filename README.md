@@ -9,6 +9,8 @@
   *Analisis exploratorio de datos (EDA).
 
 ### 2. Bases de Datos (SQL)
+- Consultas
+- ordenamiento
   *Consultas basicas (SELECT, WHERE).
   *Ordenamiento de Datos (ORDER BY).
   *Joins (INNER, LEFT).
