@@ -13,5 +13,5 @@ En este repositorío se encontrarán las actividades entregables, ejercios y dem
 - Ordenamiento de Datos (ORDER BY).
 - Joins (INNER, LEFT).
 - Agregaciones (SUM, COUNT,GROUP BY).
-
+---
 *Desarrollado por María José Pedroza - Estudiante de Data Science.*
